@@ -1,4 +1,4 @@
-# Logging.Database.SqlServer
+# Tolitech.CodeGenerator.Logging.Database.SqlServer
 Logging database SQL Server library used in projects created by the Code Generator tool. 
 
 This project contains the implementation and customization of classes for using the logging database provider with the SQL Server database. 
